@@ -1,0 +1,10 @@
+BOOKING
+Customer{id=20, name='tuyen', age=30}
+MOVIE
+Movie name: gai gia lam chieu
+Show date: 12-04-2021
+Room name: prince
+Row number: 5
+Seat number: 5
+Price: 70000VND
+
